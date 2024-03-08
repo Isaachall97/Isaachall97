@@ -11,16 +11,16 @@ I'm Isaac, a data engineering intern passionate about leveraging data to drive d
 
   
 ## 📖 Projects
-### AWS Data Engineering Pipeline (March 2024)
+### Currently working on- AWS Data Engineering Pipeline (March 2024)
 - **Objective:** Implement an end-to-end data pipeline to analyze over 30k rows of data.
 - **Skills Used:** AWS (S3, MSK, Lambda, Kinesis, Databricks), Kafka, Spark, Python.
 - **Achievements:**
-  - Designed a RESTful API to interface with Kafka for real-time data streaming.
-  - Utilized MSK Connect for efficient batch data transfer from Kafka to S3.
-  - Automated Databricks workloads for daily data transformation and aggregation.
+  - Desiging a RESTful API to interface with Kafka for real-time data streaming.
+  - Utilising MSK Connect for efficient batch data transfer from Kafka to S3.
+  - Automating Databricks workloads for daily data transformation and aggregation.
 
 ### Multinational Data Centralisation Pipeline (February 2024)
-- **Objective:** Centralize sales data from multiple sources into a PostgreSQL database.
+- **Objective:** Centralise sales data from multiple sources into a PostgreSQL database.
 - **Skills Used:** Python, SQL, AWS RDS, RESTful APIs, JSON, CSV parsing.
 - **Achievements:**
   - Extracted and cleaned data from diverse sources including PDFs and databases.
