@@ -9,6 +9,8 @@ I'm Isaac, a data engineering intern passionate about leveraging data to drive d
 - **Technologies:** AWS, Kafka, Airflow, Databricks, Spark, Tableau, SPSS, MS Excel
 - **Tools:** git
 
+  
+## 📖 Projects
 ### AWS Data Engineering Pipeline (March 2024)
 - **Objective:** Implement an end-to-end data pipeline to analyze over 30k rows of data.
 - **Skills Used:** AWS (S3, MSK, Lambda, Kinesis, Databricks), Kafka, Spark, Python.
