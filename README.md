@@ -1,5 +1,5 @@
 
-👋👋Welcome to my GitHub repository, where I showcase the skills and projects developed during my AICore Data Engineering Specialisation since November 2022. This program has been a transformative journey, allowing me to dive deep into the world of data engineering, covering comprehensive training in software engineering principles, data manipulation, databases, and cloud technologies.
+👋👋Welcome to my GitHub repository, where I showcase the skills and projects developed during my AICore Data Engineering Specialisation since November 2023. This program has been a transformative journey, allowing me to dive deep into the world of data engineering, covering comprehensive training in software engineering principles, data manipulation, databases, and cloud technologies.
 
 ## 🧍About Me 
 I'm Isaac, a data engineering intern passionate about leveraging data to drive decisions and innovations. With a background in biomedical science, I've pivoted towards data engineering, fascinated by the power of data and technology to solve complex problems.
