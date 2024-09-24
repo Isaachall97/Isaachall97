@@ -11,7 +11,7 @@ I'm Isaac, a data engineering intern passionate about leveraging data to drive d
 
   
 ## 📖 Projects
-### Currently working on- AWS Data Engineering Pipeline (March 2024)
+### AWS Data Engineering Pipeline (March 2024)
 - **Objective:** Implement an end-to-end data pipeline to analyze over 30k rows of data.
 - **Skills Used:** AWS (S3, MSK, Lambda, Kinesis, Databricks), Kafka, Spark, Python.
 - **Achievements:**
